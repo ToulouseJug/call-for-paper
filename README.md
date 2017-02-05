@@ -2,7 +2,7 @@
 
 Bienvenue sur le Call for Paper du ToulouseJUG.
 
-[Proposez un Sujet](https://github.com/ToulouseJug/call-for-paper/issues/new)
+📋 [Proposez un Sujet](https://github.com/ToulouseJug/call-for-paper/issues/new)
 
 Vous pouvez même [voter pour les futurs sujets du JUG](https://github.com/ToulouseJug/call-for-paper/issues) en utilisant 👍 et 👎
 
