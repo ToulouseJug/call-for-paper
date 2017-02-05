@@ -1,4 +1,6 @@
-# Toulouse Java User Group - Call for Paper
+![image](http://www.toulousejug.org/images/toulousejug.png)
+
+# Call for Paper
 
 Bienvenue sur le Call for Paper du ToulouseJUG.
 
