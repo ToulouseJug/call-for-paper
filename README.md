@@ -1,4 +1,4 @@
-![image](http://www.toulousejug.org/images/toulousejug.png)
+![image](http://www.toulousejug.org/images/banner.png)
 
 # Call for Paper
 
