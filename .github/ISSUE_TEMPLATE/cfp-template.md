@@ -2,7 +2,7 @@
 name: CfP Template
 about: Nouvelle proposition de talk au Toulouse JUG
 title: ''
-labels: ''
+labels: 'CFP'
 assignees: arnaudbos
 
 ---
