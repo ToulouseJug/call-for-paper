@@ -1,6 +1,6 @@
 ---
 name: Idea Template
-about: Donner une idée de sujet/thème/speaker pour le Toulouse JUG
+about: Donner une idée de sujet/thème/speaker pour la boîte à idées du Toulouse JUG !
 title: ''
 labels: 'IDEA'
 assignees: arnaudbos
